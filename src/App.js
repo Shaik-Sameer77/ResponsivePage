@@ -1,12 +1,13 @@
 import React from 'react';
 import './App.css';
-import DogImage from './components/DogImage';
+import Navbar from './components/Navbar/Navbar';
+import Hero from './components/Hero/Hero';
 
 function App() {
   return (
-    <div className="App">
-      <h1>Dog Image Generator</h1>
-      <DogImage />
+    <div>
+      <Navbar />
+      <Hero />
     </div>
   );
 }
