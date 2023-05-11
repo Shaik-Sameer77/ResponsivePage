@@ -1,12 +1,11 @@
 .card-container {
-  /* border: 1px solid red; */
-  /* width: 70% ; */
   display: flex;
   margin: auto;
   padding: 2rem ;
-  /* max-width: 70%; */
+  max-width: 90%;
   overflow: scroll; 
-  /* background-color: cornsilk; */
+  background-color: aliceblue;
+  border-radius: 15px;
 }
 
 
